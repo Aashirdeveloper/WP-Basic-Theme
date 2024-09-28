@@ -1,3 +1,7 @@
+ <!-- 27-09-2024/Friday  -->
+ <?php get_header(); ?>
+
+
 
 <!-- header -->
 		<!-- header section moved, with nav -->
@@ -53,11 +57,6 @@
 
 
 		</div>
-
-
-
-
-
 
 
 		<!-- Main -->
@@ -231,7 +230,9 @@
 				</div>
 			</div>
 		</section>
-
+ <!-- 27-09-2024/Friday  -->
+  
+ <?php get_footer(); ?>
 
 
 <!-- footer section moved-->
